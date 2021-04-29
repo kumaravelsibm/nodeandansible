@@ -62,4 +62,3 @@ app.delete('/users',(req,res)=>{
 //listen
 app.listen(port, ()=>{
     console.log('App is listening at http://localhost:${port}')
-})
